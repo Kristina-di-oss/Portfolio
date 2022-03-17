@@ -1,0 +1,6 @@
+# directives
+
+# encoding Apache in UTF-8
+AddDefaultCharset UTF-8
+
+# main start index directory
